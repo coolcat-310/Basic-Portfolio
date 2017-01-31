@@ -99,6 +99,14 @@ section {
     padding-bottom: 10px;
 }
 
+#miniHeader2 {
+    border-bottom: 1px solid #777777 ;
+    padding-top: 3px;
+    padding-bottom: 13px;
+    text-align: left;
+    color: #4aaaa5;
+}
+
 #github{
     padding-top: 7px;
     float: left;
@@ -116,6 +124,15 @@ section {
     float: left;
     width: 33%;
 }
+
+#photos {
+    float: left;
+    margin-top: 10px;
+    z-index: 0;
+}
+
+
+
 aside {
     background-color: #fff;
     width:50%;
